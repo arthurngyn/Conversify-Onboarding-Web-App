@@ -22,11 +22,4 @@
 - **Backend**:
   - JSON Server for data storage and API simulation.
 
-### Getting Started
 
-To run the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd Conversify
